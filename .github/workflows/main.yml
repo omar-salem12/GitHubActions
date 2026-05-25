@@ -7,8 +7,8 @@ on:
 
 jobs:
    example-job:
-      runs-on: ubuntu-latest
+       runs-on: ubuntu-latest
 
-      steps:
-         - name: print a welcome script
-        run: echo "welocme to our first GitHub Actions Workflows"
+       steps:
+          - name: print a welcome script
+            run: echo "welocme to our first GitHub Actions Workflows"
