@@ -1,3 +1,5 @@
+name: seconed Workflow
+
 on:
   push:
       branches:
